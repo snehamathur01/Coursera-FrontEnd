@@ -1,0 +1,81 @@
+.top{
+    background-color: pink;
+    overflow: none;
+    text-align: center;
+    border: 2px solid black;
+    width: 100px;
+    height: 40px;
+    padding: 2px 0px 0px 0px;
+    float: right;
+    margin-right: 36px;
+    margin-top: 0px;
+    font-weight: bold;
+    position: relative;
+    ]
+    
+    
+}
+.name1{
+    background-color: pink;
+    
+}
+
+.name2{
+    background-color: red;
+    color: white;
+}
+
+.name3{
+    background-color: yellow;
+    
+}
+
+.box{
+    overflow: none;
+    width: 100%;
+    }
+
+.bottom{
+    background-color: gray;
+    border:2px solid black;
+    padding-top: 50px;
+    font-size: 20px;
+    margin: 2.5%;
+    
+}
+
+/*DESKTOP VIEW */
+@media (min-width:992px){
+    .col-lg-4{
+        float:left;
+        width:33.33%;
+    }
+}
+/*TABLET VIEW */
+@media (min-width:768px) and (max-width:991px){
+    .col-md-6,.col-md-12 {
+        float: left;
+      }
+      .col-md-6 {
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .col-md-12 {
+    
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      
+
+}
+
+/*MOBILE VIEW */
+@media (max-width:767px){
+    .col-sm-12{
+        float:left;
+        width:100%;
+    }
+
+}
