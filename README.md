@@ -6,4 +6,4 @@ module 3 solution https://snehamathur01.github.io/Coursera-FrontEnd/module3/
 
 module 4 solution https://snehamathur01.github.io/FrontEnd/module4/
 
-module 5 solution https://snehamathur01.github.io/FrontEnd/module5/
+module 5 solution- RESTAURANT WEBSITE https://snehamathur01.github.io/FrontEnd/module5/
